@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<string.h>
+#define walter 414
+
+int main(){
+char arr1[] = "abc";    
+printf("%lu\n", strlen(arr1));
+return 0;
+}
